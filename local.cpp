@@ -17,3 +17,6 @@ int main()
     cout << update(a) << endl;
     cout << update2(a) << endl;
 }
+//output
+// 5
+// 2
