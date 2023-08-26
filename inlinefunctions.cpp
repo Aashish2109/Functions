@@ -9,3 +9,5 @@ int main()
     int a = 2;
     cout << update(a);
 }
+//OUTPUT
+//3
